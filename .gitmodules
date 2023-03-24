@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BLPestimatoR"]
+	path = BLPestimatoR
+	url = https://github.com/cran/BLPestimatoR
+	shallow = true
+	registered = true
